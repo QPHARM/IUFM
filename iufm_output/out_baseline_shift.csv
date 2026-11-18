@@ -1,0 +1,5 @@
+"dataset","label","Cu0_unshifted_ng_mL","shift_ng_mL","Cu0_shifted_ng_mL"
+"hsa_cbz","Carbamazepine / HSA",569.211524112361,316.585098581566,885.796622693927
+"pl_cbz","Carbamazepine / plasma",515.967431109865,56.2418822499931,572.209313359858
+"pl_warf","Warfarin / plasma",11.7495556658444,-5.75673488526932,5.99282078057505
+"pl_lido","Lidocaine / plasma",716.067642947424,-326.884047631781,389.183595315643

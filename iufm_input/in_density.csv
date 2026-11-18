@@ -1,0 +1,5 @@
+system,fraction,density_g_per_mL,basis
+plasma,filtrate,1.000,protein-free ultrafiltrate
+plasma,retentate,1.024,plasma (Section 4.2.5)
+hsa,filtrate,1.000,protein-free ultrafiltrate
+hsa,retentate,1.008,HSA solution (Section 4.2.5)

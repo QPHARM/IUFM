@@ -1,0 +1,8 @@
+dataset,site,Cp0_M,KA_per_M,n_sites,MW_g_per_mol
+hsa_cbz,albumin,600e-6,5.3e3,1.00,236.27
+pl_cbz,AAG,15e-6,1.0e5,1.00,236.27
+pl_cbz,albumin,600e-6,5.3e3,1.00,236.27
+pl_warf,albumin_site_I,600e-6,3.3e5,1.05,308.33
+pl_warf,albumin_site_II,600e-6,2.03e4,2.09,308.33
+pl_lido,AAG,15e-6,1.7e5,1.00,234.3373
+pl_lido,albumin,600e-6,1.14e3,1.00,234.3373

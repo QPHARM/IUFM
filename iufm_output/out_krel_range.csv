@@ -1,0 +1,6 @@
+"dataset","label","k_rel_min","k_rel_max"
+"hsa_cbz","Carbamazepine / HSA",0.00830116474713676,0.849849219272411
+"pl_cbz","Carbamazepine / plasma",0.0138082250102442,2.49176596893291
+"pl_warf","Warfarin / plasma",0.000937488374480309,0.283338311088324
+"pl_lido","Lidocaine / plasma",0.000441659553505925,NA
+"all","Admissible range",0.0138082250102442,0.283338311088324
